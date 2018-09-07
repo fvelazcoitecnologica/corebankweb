@@ -1,0 +1,2 @@
+# corebankweb
+This is the default web application built on top of the Apache Fineract platform. The Mifos X Web App (formerly called Community App) is maintained by the Mifos Initiative as a reference solution for the financial inclusion community. It is a Single-Page App (SPA) written in web standard technologies like JavaScript, CSS and HTML5. It leverages … http://openmf.github.io/community-app/
